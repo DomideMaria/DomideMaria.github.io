@@ -1,5 +1,5 @@
 const backgroundImages = [
-    '../DomideMaria.github.io/images/project-page-1.jpg',
+    '../images/project-page-1.jpg',
     '../DomideMaria.github.io/images/project-page-2.jpg',
     '../DomideMaria.github.io/images/project-page-3.jpg',
     '../DomideMaria.github.io/images/project-page-4.jpg',
