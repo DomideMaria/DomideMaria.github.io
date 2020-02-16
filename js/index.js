@@ -1,14 +1,14 @@
 const backgroundImages = [
     '../images/project-page-1.jpg',
-    '../DomideMaria.github.io/images/project-page-2.jpg',
-    '../DomideMaria.github.io/images/project-page-3.jpg',
-    '../DomideMaria.github.io/images/project-page-4.jpg',
-    '../DomideMaria.github.io/images/project-page-5.jpg',
-    '../DomideMaria.github.io/images/project-page-6.jpg',
-    '../DomideMaria.github.io/images/project-page-7.jpg',
-    '../DomideMaria.github.io/images/project-page-8.jpg',
-    '../DomideMaria.github.io/images/project-page-9.jpg',
-    '../DomideMaria.github.io/images/project-page-10.jpg',
+    '../images/project-page-2.jpg',
+    '../images/project-page-3.jpg',
+    '../images/project-page-4.jpg',
+    '../images/project-page-5.jpg',
+    '../images/project-page-6.jpg',
+    '../images/project-page-7.jpg',
+    '../images/project-page-8.jpg',
+    '../images/project-page-9.jpg',
+    '../images/project-page-10.jpg',
 ]
 
 window.addEventListener("scroll", function() {showFunction()});
