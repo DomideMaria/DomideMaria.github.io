@@ -8,7 +8,6 @@ const backgroundImages = [
     '../images/project-page-7.jpg',
     '../images/project-page-8.jpg',
     '../images/project-page-9.jpg',
-    '../images/project-page-10.jpg',
 ]
 
 window.addEventListener("scroll", function() {showFunction()});

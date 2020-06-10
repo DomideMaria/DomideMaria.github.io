@@ -30,7 +30,7 @@ p {
 
 #navigation {
     position: relative;
-    left: -35%;
+    left: -45%;
     z-index: 1000;
     top: 0;
 }
@@ -132,11 +132,11 @@ li:hover {
     }
 
     10% {
-        width: 55%;
+        width: 65%;
     }
 
     60% {
-        width: 55%;
+        width: 65%;
     }
 
     70% {
@@ -251,6 +251,10 @@ li:hover {
     position: relative;
 }
 
+a {
+    text-decoration: none;
+}
+
 #portfolio-button {
     margin-bottom: 100px;
     background-color: black;
@@ -258,6 +262,7 @@ li:hover {
     font-weight: 900;
     padding: 10px 20px;
     border: 2px solid black;
+    text-decoration: none;
 }
 
 #portfolio-button:hover {
